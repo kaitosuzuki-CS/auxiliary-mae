@@ -81,7 +81,7 @@ The model operates by:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/kaitosuzuki-CS/AuxiliaryMAE.git
+    git clone https://github.com/kaitosuzuki-CS/auxiliary-mae.git
     cd AuxiliaryMAE
     ```
 
